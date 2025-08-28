@@ -1,0 +1,19 @@
+
+@import "tailwindcss";
+
+body {
+	font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+	background: #fff;
+	color: #222;
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+	letter-spacing: -0.02em;
+}
+
+p {
+	line-height: 1.6;
+}
